@@ -1,0 +1,40 @@
+/* Write your code here. */
+.listItmes {
+  display: flex;
+  flex-direction: column;
+  border: solid 2px #d7dae6;
+  min-height: 50px;
+  max-height: 100;
+  margin-top: 20px;
+  align-items: center;
+  padding: 10px;
+  border-radius: 9px;
+}
+.headinQuti {
+  color: #52606d;
+  font-size: 20px;
+  flex-grow: 2;
+}
+.button {
+  border: none;
+  background-color: transparent;
+}
+.listCointainer {
+  display: flex;
+  width: 100%;
+}
+.horizontal {
+  width: 100%;
+  border: 1px solid #e4e7eb;
+  height: 0px;
+}
+.listCointainer1 {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+.headinQuti1 {
+  color: #52606d;
+  font-size: 16px;
+  flex-grow: 2;
+}
